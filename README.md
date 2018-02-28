@@ -1,4 +1,4 @@
-# Games-Console Project - Max O'Brien
+# Games Console Project - Max O'Brien
 <img src="https://github.com/maxobrien/Games-Console/blob/master/Images/01.jpg" />
 
 Above are all the files for my games console project.
