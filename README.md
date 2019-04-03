@@ -28,3 +28,7 @@ Once the bootloader has be burned, you can upload the code. Todo this, ensure yo
   <img src="https://github.com/maxobrien/Games-Console/blob/master/Images/05.jpg" />
   <img src="https://github.com/maxobrien/Games-Console/blob/master/Images/06.jpg" />
 </details>
+
+## Required Libraries for Code
+- U8g2
+
