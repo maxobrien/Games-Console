@@ -4,7 +4,7 @@
 Above are all the files for my games console project.
 
 ## PCB Design Files
-The PCB was originally designed in <a href="http://kicad-pcb.org/">KiCad 4.0.7</a> however other versions may still be able to open it. The board is a 2-layered design that can easily be manufactured at most places if that is what you wish to do.
+The PCB was originally designed in <a href="http://kicad.org/">KiCad 4.0.7</a> however other versions may still be able to open it. The board is a 2-layered design that can easily be manufactured at most places if that is what you wish to do.
 
 **UPDATE** As of KiCad version 5.0 the board can still be opened however, you will need to run the automatic schematic symbol converter.
 
